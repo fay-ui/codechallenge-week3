@@ -6,7 +6,7 @@
       "runtime": "108",
       "capacity": 30,
       "showtime": "04:00PM",
-      "tickets_sold": 27,
+      "tickets_sold": 30,
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
     },
@@ -19,16 +19,6 @@
       "tickets_sold": 44,
       "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
-    },
-    {
-      "id": "3",
-      "title": "Time Chasers",
-      "runtime": "93",
-      "capacity": 50,
-      "showtime": "09:30PM",
-      "tickets_sold": 31,
-      "description": "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/23342/p23342_v_v8_ab.jpg"
     },
     {
       "id": "4",
