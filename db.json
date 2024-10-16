@@ -41,16 +41,6 @@
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/4232/p4232_v_v8_aa.jpg"
     },
     {
-      "id": "6",
-      "title": "Track Of The Moon Beast",
-      "runtime": "112",
-      "capacity": 30,
-      "showtime": "10:30PM",
-      "tickets_sold": 16,
-      "description": "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/39804/p39804_v_v8_ab.jpg"
-    },
-    {
       "id": "7",
       "title": "The Skydivers",
       "runtime": "94",
@@ -79,16 +69,6 @@
       "tickets_sold": 22,
       "description": "A saboteur posing as a scientist strives to destroy the world's first space station.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/46755/p46755_v_v8_aa.jpg"
-    },
-    {
-      "id": "10",
-      "title": "The Giant Spider Invasion",
-      "runtime": "122",
-      "capacity": 50,
-      "showtime": "10:00PM",
-      "tickets_sold": 44,
-      "description": "Giant spiders from another dimension invade Wisconsin.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/42171/p42171_v_v8_ab.jpg"
     },
     {
       "id": "11",
